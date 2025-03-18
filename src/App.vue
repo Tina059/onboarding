@@ -36,7 +36,7 @@
   opacity: 0;
 }
 .header-logo {
-  height: 40px; /* 根据实际图片比例调整 */
+  height: 40px; 
   margin-right: 1.0rem;
   transition: transform 0.3s ease;
 }
